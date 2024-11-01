@@ -1,0 +1,9 @@
+.twitter-message { color: red; border: 1px solid #ccc; padding: 5px; }
+.twitter-message.blue { color: blue; border: 1px solid #ccc; }
+.twitter-message.red { color: red; border: 1px solid red; }
+#pin-wrapper > a {background-image:none !important;}
+iframe {margin-bottom: 0 !important; max-width: 100% !important;}
+.fb_iframe_widget span {vertical-align:0 !important;}
+a.PIN_1400363636349_pin_it_beside_20 {
+	width:80px !important;
+	}
